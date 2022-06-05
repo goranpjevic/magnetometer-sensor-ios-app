@@ -1,3 +1,7 @@
                           magnetometer-sensor-ios-app
 
 ios app for sensing and analyzing magnetometer data.
+
+note:
+
+this project is a fork of https://github.com/degtiarev/MotionCollector
