@@ -2,6 +2,9 @@
 
 ios app for sensing and analyzing magnetometer data.
 
+the app can measure data from the magnetometer sensor in an iphone, and export
+it as a csv file.
+
 note:
 
 this project is a fork of https://github.com/degtiarev/MotionCollector
